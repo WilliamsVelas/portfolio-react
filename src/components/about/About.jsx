@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import M2 from '../../assets/me-about2.JPG'
 
 //!ICONS
 import { FaAward } from 'react-icons/fa'
@@ -16,7 +16,7 @@ function About() {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-img">
-            <img src={ME} alt="About Image" />
+            <img src={M2} alt="About Image" />
           </div>
         </div>
 

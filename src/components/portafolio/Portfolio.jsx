@@ -11,16 +11,16 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "PORTFOLIO 1",
+    title: "SPARTAN MOBILE",
     gitHub: "",
     demo: "",
   },
   {
     id: 2,
     image: IMG2,
-    title: "PORTFOLIO 2",
-    gitHub: "",
-    demo: "",
+    title: "REACT-WEATHER",
+    gitHub: "https://github.com/WilliamsVelas/react-weather",
+    demo: "https://williamsvelas.github.io/react-weather/",
   },
   {
     id: 3,
