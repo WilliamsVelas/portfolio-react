@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.f7cb9782.css",
-    "main.js": "/portfolio-react/static/js/main.56916205.js",
-    "static/media/cv.pdf": "/portfolio-react/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/me.png": "/portfolio-react/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/portfolio-react/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "main.css": "/portfolio-react/static/css/main.89d83190.css",
+    "main.js": "/portfolio-react/static/js/main.e6208fa2.js",
+    "static/media/me-about2.JPG": "/portfolio-react/static/media/me-about2.159a40e9e4b3a6fc4990.JPG",
+    "static/media/file.png": "/portfolio-react/static/media/file.c582ad9388fa7052dc5d.png",
+    "static/media/portfolio2.jpg": "/portfolio-react/static/media/portfolio2.6cc78315f5be71a919ee.jpg",
     "static/media/portfolio5.png": "/portfolio-react/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/portfolio-react/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/CV_Williams_Velasquez.pdf": "/portfolio-react/static/media/CV_Williams_Velasquez.f095611d1db34a43a8ce.pdf",
     "static/media/portfolio6.jpg": "/portfolio-react/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio1.jpg": "/portfolio-react/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/portfolio3.jpg": "/portfolio-react/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/portfolio-react/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/portfolio-react/index.html",
-    "main.f7cb9782.css.map": "/portfolio-react/static/css/main.f7cb9782.css.map",
-    "main.56916205.js.map": "/portfolio-react/static/js/main.56916205.js.map"
+    "main.89d83190.css.map": "/portfolio-react/static/css/main.89d83190.css.map",
+    "main.e6208fa2.js.map": "/portfolio-react/static/js/main.e6208fa2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7cb9782.css",
-    "static/js/main.56916205.js"
+    "static/css/main.89d83190.css",
+    "static/js/main.e6208fa2.js"
   ]
 }
